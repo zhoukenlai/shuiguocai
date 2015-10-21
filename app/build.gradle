@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "ken.lai"
+        minSdkVersion 9
+        targetSdkVersion 22
+        versionCode 900
+        versionName "10.00"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile files('libs/baidu_appx_android_2.0.0.jar')
+    compile files('libs/AdsMOGO_Android_SDK_1.6.2.jar')
+}

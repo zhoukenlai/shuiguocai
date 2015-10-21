@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/CGuessUnit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/CaicaiActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/CaicaiView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/CreateBitMap.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/DaojuActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/GameView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/HelpView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/MainView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/SelectView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/ken/lai/StorageBoxActivity.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

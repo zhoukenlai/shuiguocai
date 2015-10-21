@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="action_settings">Settings</string>
+    <string name="hello">水果猜</string>
+    <string name="app_name">猜猜看</string>
+	<string name="highscore">最高得分：</string>
+	<string name="guan">关卡：</string>
+	<string name="score">得分：</string>
+	<string name="newscore">最新记录：</string>
+	<string name="daojunote">请添加微信号“kkll2017”通过红包购买道具（2元三种道具各3个，5元三种道具各10个）：</string>
+	<string name="hnit">请输入购买码</string>
+	<string name="wall"></string>
+	<string name="ok">兑换道具</string>
+	<string name="back">　返回游戏　</string>
+	<string name="parse">共点击次数：</string>
+	<string name="noted">购买码不正确，请添加微信号“kkll2017”通过红包购买道具</string>
+</resources>

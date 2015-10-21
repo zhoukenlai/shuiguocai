@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+	<LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:background="#3134C1"
+            android:orientation="vertical" >
+	    <Button
+	        android:id="@+id/bOK"  
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="　拍　照　" />
+	    <Button
+	        android:id="@+id/bCancel"  
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="　取　消　" />
+	    <Button
+	        android:id="@+id/bSave"  
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="　保　存　" />
+	    <Button
+	        android:id="@+id/bExit"  
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="　退　出　" />
+    </LinearLayout>
+    
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal" >
+        <SurfaceView
+	    	android:id="@+id/surface"  
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" >
+	    </SurfaceView>
+	</LinearLayout>
+
+</LinearLayout>
